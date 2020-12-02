@@ -4,16 +4,35 @@ This is a repositoy for MAGD 150 to display my Lab assignment works.
 
 
 
-### MAGD 150 Lab 10 3D and Data
+### MAGD Assignments 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MAGD Lab 5 - Intersections
 
-[Click here to see the source code](https://github.com/GVraney/MAGD-150-Assignments/blob/gh-pages/F20MADG150Lab10_Vraney/sketch.js)
+Click here to veiw source code
 
-[Click here to see the HTML](https://github.com/GVraney/MAGD-150-Assignments/blob/gh-pages/F20MADG150Lab10_Vraney/index.html)
+Click here to veiw HTML
 
+MAGD Lab 6 - Trandformations and Functions
 
+Click here to veiw source code
 
+Click here to veiw HTML
 
+MAGD Lab 7 - Objects and Arrays
 
+Click here to veiw source code
+
+Click here to veiw HTML
+
+MAGD Lab 8 - Images and Types
+
+Click here to veiw source code
+
+Click here to veiw HTML
+
+MAGD Lab 10 - 3D and Data
+
+Click here to veiw source code
+
+Click here to veiw HTML
 
